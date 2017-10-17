@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * R Package: Pasta
 * Package for Analysis of Speckle Tracking echocArdiography
 - Version: 1.0
@@ -7,3 +8,6 @@
 - Description: This package contains functions for extracting raw data from 2D Speckle tracking echocardiography
 - License: MIT
 - Imports: data.table, parallel
+=======
+# pasta
+>>>>>>> d571eaef251e904183cdfd8a71a3a3e623887309
